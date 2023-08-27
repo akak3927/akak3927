@@ -1,7 +1,7 @@
 ### 반갑습니다 👋
 #### 백엔드 개발자, 김예진입니다.
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akak3927)](https://github.com/akak3927/github-readme-stats)
 
  
 <!--
