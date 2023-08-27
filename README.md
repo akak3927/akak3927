@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm backend developer Kim Yejin 👋
 
 <!--
 **akak3927/akak3927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
