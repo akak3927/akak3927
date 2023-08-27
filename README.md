@@ -1,6 +1,6 @@
 <div>
   <a href="mailto:code10.1haja@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=code10.1haja@gmail.com"/></a>
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=yejin_code)](https://velog.io/@yejin_code) 
+  <img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=white"/>
 </div>
 ### 반갑습니다 👋
 #### 백엔드 개발자, 김예진입니다.
