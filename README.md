@@ -1,5 +1,5 @@
 ### 환영합니다 👋
-## 백엔드 개발자, 김예진입니다.
+#### 백엔드 개발자, 김예진입니다.
 
 <!--
 **akak3927/akak3927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
