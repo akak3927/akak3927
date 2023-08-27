@@ -20,7 +20,7 @@
   
   <img src="https://img.shields.io/badge/eclips-2C2255?style=flat&logo=eclipseide&logoColor=white">
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/postman-#FF6C37?style=flat&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white">
 </div>
 
 <br>
