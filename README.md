@@ -1,6 +1,6 @@
 <div>
   <a href="mailto:code10.1haja@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=code10.1haja@gmail.com"/></a>
-  <img src="https://img.shields.io/badge/Velog-#20C997?style=flat-square&logo=Velog&logoColor=white"/>
+  <img src="https://img.shields.io/badge/velog-#20C997?style=flat-square&logo=velog&logoColor=white"/>
 </div>
 
 ### 반갑습니다 👋
