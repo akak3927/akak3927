@@ -1,12 +1,10 @@
+### 반갑습니다 👋
+#### 백엔드 개발자, 김예진입니다.
+
 <div>
   <a href="mailto:code10.1haja@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=code10.1haja@gmail.com"/></a>
    <a href="https://velog.io/@yejin_code"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yejin_code"/></a>
 </div>
-
-### 반갑습니다 👋
-#### 백엔드 개발자, 김예진입니다.
-
-
 <!--
 **akak3927/akak3927** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
