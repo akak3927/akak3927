@@ -1,3 +1,6 @@
+<a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=code10.1haja@gmail.com"/></a>
+</p>
+
 ### 반갑습니다 👋
 #### 백엔드 개발자, 김예진입니다.
 
