@@ -3,8 +3,8 @@
    <a href="https://velog.io/@yejin_code"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yejin_code"/></a>
 </div>
 
-### 반갑습니다 👋
-#### 백엔드 개발자, 김예진입니다.
+## 반갑습니다 👋
+### 백엔드 개발자, 김예진입니다.
 
 
 #### ✔️ Tech Stack
